@@ -15,6 +15,11 @@ Utilizar dois terminais, um para o client e outro para o server.
 `npm run start-dev`
 
 
+### ⚙️ Pré Visualização
+![Exemplo1](screenshot2.png)
+![Exemplo2](screenshot1.png)
+
+
 ## 🛠️ Construído com: 
 
 * [Express](https://expressjs.com/pt-br/) - Framework Node utilizado para criar o servidor
